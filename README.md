@@ -26,8 +26,12 @@ I am a passionate and experienced full-stack Django developer with expertise in 
 
 Feel free to customize this example to match your preferences and style. You can add or remove skills and emojis based on your expertise and interests.
 
+📫 How to reach me: safwannazir911@gmail.com
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=safwannazir911&label=Profile%20views&color=0e75b6&style=flat" alt="safwannazir911" /> </p>
 
+
+  
 <!--
 **safwannazir911/safwannazir911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
