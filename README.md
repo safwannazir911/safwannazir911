@@ -24,7 +24,7 @@ Elementor 💡
 
 I am a passionate and experienced full-stack Django developer with expertise in building dynamic web applications. I enjoy working with modern technologies and frameworks to create elegant and user-friendly solutions. My goal is to deliver high-quality code and contribute to impactful projects. Let's collaborate and build something awesome together!
 
-Feel free to customize this example to match your preferences and style. You can add or remove skills and emojis based on your expertise and interests.
+
 
 📫 How to reach me: safwannazir911@gmail.com
 
