@@ -9,7 +9,9 @@ HTML 🌐
 CSS 🎨
 SCSS 🎨
 Bootstrap 🅱️
+C➿
 Python 🐍
+C++➿
 JavaScript (JS) 🌐
 React ⚛️
 Django 🎻
