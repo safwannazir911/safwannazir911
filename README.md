@@ -1,26 +1,6 @@
 👋 Hello, I'm Safwan Nazir!
 
-💻 Full-Stack Django Developer | 🌐 Web Developer
-
-🔧 Skills:
-
-Hosting Setup 🌐
-HTML 🌐
-CSS 🎨
-SCSS 🎨
-Bootstrap 🅱️
-C➿
-Python 🐍
-C++➿
-JavaScript (JS) 🌐
-React ⚛️
-Django 🎻
-Git 🕊️
-GitHub 🐙
-Figma 🎨
-Selenium 🕷️
-WordPress Setup 🏗️
-Elementor 💡
+🌐 Web Developer
 
 📝 About Me:
 
