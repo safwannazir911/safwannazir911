@@ -4,7 +4,7 @@
 
 📝 About Me:
 
-I am a passionate and experienced full-stack Django developer with expertise in building dynamic web applications. I enjoy working with modern technologies and frameworks to create elegant and user-friendly solutions. My goal is to deliver high-quality code and contribute to impactful projects. Let's collaborate and build something awesome together!
+I am a passionate and experienced full-stack developer with expertise in building dynamic web applications. I enjoy working with modern technologies and frameworks to create elegant and user-friendly solutions. My goal is to deliver high-quality code and contribute to impactful projects. Let's collaborate and build something awesome together!
 
 
 
