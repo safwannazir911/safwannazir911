@@ -1,6 +1,6 @@
 👋 Hello, I'm Safwan Nazir!
 
-🌐 Web Developer
+🌐 Full-Stack Developer
 
 📝 About Me:
 
